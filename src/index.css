@@ -100,7 +100,6 @@ header a {
 }
 
 header {
-  height: 200px;
   position: relative;
   overflow: hidden;
   z-index: 2;
@@ -168,6 +167,10 @@ nav a:hover {
 
 nav  li {
   cursor: pointer;
+}
+
+ul.list li {
+  list-style-type: disc;
 }
 
 textarea {
