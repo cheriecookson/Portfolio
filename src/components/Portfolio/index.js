@@ -4,12 +4,45 @@ import Project from '../Project';
 function Portfolio() {
 
     const [projects] = useState([
+               {
+            name: 'git-cookin',
+            description: 'Built with MySQL, Sequelize, Handlebars.js, Express.js, Sass.',
+            link: "http://git-cookin.herokuapp.com/",
+            repo: "https://github.com/cheriecookson/git-cookin"
+        },
         {
-            name: 'weather',
-            description: 'API Weather Data',
+            name: 'covid-travel-tracker',
+            description: 'Built with HTML, CSS, JavaScript, jQuery, Materlialize, 3rd Party APIs.',
+            link: "https://cheriecookson.github.io/covid19-travel-tracker/",
+            repo: "https://github.com/cheriecookson/covid19-travel-tracker"
+        },
+        {
+            name: 'budget-tracker',
+            description: 'Progressive web application (PWA) built with NoSQL, IndexedDB, Express.js, Service Worker, MongoDB Atlas and Heroku.',
+            link: "https://shrouded-plateau-83298.herokuapp.com/",
+            repo: "https://github.com/cheriecookson/budget-tracker"
+        },
+        {
+            name: 'social-network-api',
+            description: 'Built with NoSQL, Mongoose ODM, MongoDB, Express.js, Node.js.',
+            link: "https://drive.google.com/file/d/1ginBLVwq6uaLn4HTgs92sEaF9EFSJUs9/view",
+            repo: "https://github.com/cheriecookson/social-network-api"
+        },
+        
+        {
+            name: 'weather-dashboard',
+            description: 'Built with API weather data, jQuery, Bootstrap.',
             link: "https://cheriecookson.github.io/weather-dashboard/",
             repo: "https://github.com/cheriecookson/weather-dashboard"
         },
+        {
+            name: 'code-quiz-challenge',
+            description: 'Built with HTML, CSS, JavaScript, Web APIs.',
+            link: "https://cheriecookson.github.io/code-quiz-challenge/",
+            repo: "https://github.com/cheriecookson/code-quiz-challenge"
+        },
+
+
     ]);
 
     return (
