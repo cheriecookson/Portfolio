@@ -6,13 +6,13 @@ main {
 }
 :root {
   --primary: #8c54ff;
-  --secondary: #F3A847;
+  --secondary: #E0AFA0;
   --tertiary: #B12704;
-  --light: #fafafa;
-  --dark: #000000;
-  --darker: #111111;
+  --light: #F4F3EE;
+  --dark: #8A817C;
+  --darker: #463F3A;
   --error: rgb(228, 46, 1);
-  --hide: rgba(255,255,255,.9);
+  --hide: rgba(244, 243, 238,.9);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
@@ -346,7 +346,7 @@ button {
 
 a {
 	border-radius: 5px;
-	color: var(--primary);
+	color: var(--secondary);
 	font-weight: 600;
 	padding: 2px 4px;
 	margin-left: -2px;

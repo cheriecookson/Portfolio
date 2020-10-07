@@ -4,9 +4,9 @@ function Resume() {
   return (
     <section className="my-5">
       <div className="my-2">
-        <p>
-          <a href="https://www.linkedin.com/">Download <i class="fas fa-file"></i></a>
-        </p>
+        <h4>
+          <a href="./assets/cv.pdf"><i class="fas fa-file"> Download File</i></a>
+        </h4>
         <h4>Front-end Proficiencies</h4>
         <ul className="list">
           <li>HTLM</li>
