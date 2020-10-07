@@ -2,7 +2,7 @@ import React from 'react';
 
 function Resume() {
   return (
-    <section className="my-5">
+    <section className="my-5" className="resume">
       <div className="my-2">
         <h4>
           <a href="./assets/cv.pdf"><i class="fas fa-file"> Download File</i></a>

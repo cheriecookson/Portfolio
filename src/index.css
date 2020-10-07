@@ -5,14 +5,14 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
-  --secondary: #E0AFA0;
+  --primary: #05668D;
+  --secondary: #F46036;
   --tertiary: #B12704;
-  --light: #F4F3EE;
-  --dark: #8A817C;
-  --darker: #463F3A;
+  --light: #F7F6F2;
+  --dark: #AFAFAC;
+  --darker: #121212;
   --error: rgb(228, 46, 1);
-  --hide: rgba(244, 243, 238,.9);
+  --hide: rgba(239, 236, 229,.9);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
@@ -37,7 +37,7 @@ body {
   letter-spacing: .1em;
   background: var(--dark);
   color: var(--light);
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', sans-serif;
 
 }
 
@@ -47,39 +47,44 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Helvetica Neue';
+  font-family: 'Helvetica Neue', sans-serif;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
 }
 
 h1 {
-  font-size: 2.25rem;
+  font-size: 2.75rem;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 2.50rem;
+
 }
 
 h3 {
-  font-size: 1.75rem;
+  font-size: 2.25rem;
 }
 
 h4 {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 h5 {
-  font-size: 1.25rem;
+  font-size: 1.75rem;
 }
 
 h6 {
-  font-size: 1rem;
+  font-size: 1.50rem;
 }
 
 p {
-  font-size: 1.1rem;
+  font-size: 1.40rem;
   margin-top: 0;
+}
+
+li {
+  font-size: 1.50rem;
 }
 
 a {
@@ -89,7 +94,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  color: var(--secondary);
 }
 
 header {
@@ -97,7 +102,7 @@ header {
 }
 
 header a {
-  color: var(--light);
+  color: var(--primary);
 }
 
 header {
@@ -109,6 +114,7 @@ header {
 header h1 {
   position: relative;
   z-index: 2;
+  
 }
 
 button {
@@ -147,7 +153,7 @@ form {
 input {
   font-size: 1rem;
   padding: 0.25rem;
-  border: 1px solid var(--dark);
+  border: 1px solid var(--darker);
   outline: none;
   border-radius: 3px;
   transition: box-shadow 0.2s;
@@ -299,7 +305,7 @@ textarea {
 }
 
 .project-text {
-    color: var(--secondary);
+    color: var(--primary);
     position: absolute;
     top: 0px;
     bottom: 0px;
@@ -324,16 +330,27 @@ textarea {
 .project-text a {
   text-decoration: none;
   font-weight: bold;
-  color: var(--dark);
+  color: var(--primary);
   transition: all .3s ease-in-out;
 }
 
 .project-text a:hover {
-  color: var(--darker);
+  color: var(--secondary);
+}
+
+.resume-text a {
+  text-decoration: none;
+  font-weight: bold;
+  color: var(--primary);
+  transition: all .3s ease-in-out;
+}
+
+.resume-text a:hover {
+  color: var(--secondary);
 }
 
 button {
-	background: var(--darker);
+	background: var(--primary);
 	border: 0;
 	border-radius: 5px;
 	color: #fff;
