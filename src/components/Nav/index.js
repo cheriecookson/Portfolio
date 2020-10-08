@@ -20,12 +20,12 @@ function Nav(props) {
         Cherie Cookson
       </a>
     </h1>
-
+ 
       <nav>
         <ul className="flex-row">
 
           {pages.map((Page) => (
-            <li
+            <li 
               className={`mx-1 ${
                 currentPage.name === Page.name && 'navActive'
                 }`}
