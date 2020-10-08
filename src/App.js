@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Nav from './components/Nav';
 import Page from "./components/Page";
-
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -28,7 +28,7 @@ function App() {
         <Page currentPage={currentPage}></Page>
 
       </main>
-
+          <Footer />
     </div>
   );
 }
