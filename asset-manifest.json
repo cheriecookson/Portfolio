@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.3c185392.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.e58f276c.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.e58f276c.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.c86ee92f.chunk.js": "/react-portfolio/static/js/2.c86ee92f.chunk.js",
+    "static/js/2.c86ee92f.chunk.js.map": "/react-portfolio/static/js/2.c86ee92f.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.723ccb2d5d41c59422a9a9b05ce9f881.js": "/react-portfolio/precache-manifest.723ccb2d5d41c59422a9a9b05ce9f881.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.3c185392.chunk.css.map": "/react-portfolio/static/css/main.3c185392.chunk.css.map",
+    "static/js/2.c86ee92f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.c86ee92f.chunk.js.LICENSE.txt",
+    "static/media/budget-tracker.jpg": "/react-portfolio/static/media/budget-tracker.3d0f8389.jpg",
+    "static/media/code-quiz-challenge.jpg": "/react-portfolio/static/media/code-quiz-challenge.19a09ac7.jpg",
+    "static/media/cover-image.jpg": "/react-portfolio/static/media/cover-image.69e7b91c.jpg",
+    "static/media/covid-travel-tracker.jpg": "/react-portfolio/static/media/covid-travel-tracker.3723aa33.jpg",
+    "static/media/cv.pdf": "/react-portfolio/static/media/cv.75421d6c.pdf",
+    "static/media/git-cookin.jpg": "/react-portfolio/static/media/git-cookin.301a4e9f.jpg",
+    "static/media/social-network-api.jpg": "/react-portfolio/static/media/social-network-api.4bd68578.jpg",
+    "static/media/weather-dashboard.jpg": "/react-portfolio/static/media/weather-dashboard.0ca5dc38.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.c86ee92f.chunk.js",
+    "static/css/main.3c185392.chunk.css",
+    "static/js/main.e58f276c.chunk.js"
+  ]
+}
