@@ -3,17 +3,20 @@ import coverImage from '../../assets/cover/cover-image.jpg';
 function About() {
   return (
     <section className="my-5">
-  
+
       <img src={coverImage} className="my-2" style={{ width: "20%" }} alt="cover" />
       <div className="my-2">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex
-          condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna
-          mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum.
-          Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique
-          justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea
-          dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh.
-          Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
+          When an analytical mind meets the hunger for creativity you get a Certified Full Stack Web Developer with a Masters of Accounting.
+        </p>
+        <p>
+          I started my career selling total IT solutions for small and medium sized businesses at Dell Inc after graduating from Texas Tech University with a BS in Communication Studies in 2004.  Five years later, during the financial crisis of 2009, I left Dell Inc to pursue a Masters of Accounting degree from Texas A&M Corpus Christi.  While at TAMUCC I was awarded a Graduate Assistantship at the university’s Business Innovation Center where I helped start up businesses put their ideas into motion.
+        </p>
+        <p>
+          Fast forward to today, I am now a full time Accountant working for one of the top Cardiothoracic Surgeons in South Texas.  As the sole Accountant, I oversee all financial, tax and HR activities on a daily basis. And as if that didn’t give me enough to do, I am also the sole Accountant for two other up and coming businesses.
+          </p>
+        <p>
+          My Accounting career has been reliable and rewarding but I desire something more where I can let my creative side thrive.  As a Full Stack Web Developer I will get the best of both worlds.
         </p>
       </div>
     </section>
