@@ -6,7 +6,7 @@ function Portfolio() {
     const [projects] = useState([
 
         {
-            name: 'mern-project',
+            name: 'Coffee_Shop_ToGo',
             description: 'Express, MongoDB, React, GraphQL, Stripe, Chakra',
             link: "https://br-for-java.herokuapp.com/",
             repo: "https://github.com/cheriecookson/mern-project"
