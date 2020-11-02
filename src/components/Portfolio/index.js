@@ -4,7 +4,14 @@ import Project from '../Project';
 function Portfolio() {
 
     const [projects] = useState([
-               {
+
+        {
+            name: 'mern-project',
+            description: 'Express, MongoDB, React, GraphQL, Stripe, Chakra',
+            link: "https://br-for-java.herokuapp.com/",
+            repo: "https://github.com/cheriecookson/mern-project"
+        },
+        {
             name: 'git-cookin',
             description: 'MySQL, Sequelize, Handlebars.js, Express.js, Sass',
             link: "http://git-cookin.herokuapp.com/",
@@ -28,7 +35,7 @@ function Portfolio() {
             link: "https://drive.google.com/file/d/1ginBLVwq6uaLn4HTgs92sEaF9EFSJUs9/view",
             repo: "https://github.com/cheriecookson/social-network-api"
         },
-        
+
         {
             name: 'weather-dashboard',
             description: 'API weather data, jQuery, Bootstrap',
