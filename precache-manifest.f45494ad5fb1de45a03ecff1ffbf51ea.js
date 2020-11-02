@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6d3882215438d40366815ede2c31815",
+    "revision": "f46c02f3010848ac6bb92ae3deb926e8",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "151dfc9e47ca005232c5",
+    "revision": "c872ea96e0a2ac14af91",
     "url": "/react-portfolio/static/css/main.3c185392.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.c86ee92f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "151dfc9e47ca005232c5",
-    "url": "/react-portfolio/static/js/main.55a0d50a.chunk.js"
+    "revision": "c872ea96e0a2ac14af91",
+    "url": "/react-portfolio/static/js/main.eb82659e.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "301a4e9fe7a2dcf1ed523dac8b2b1d59",
     "url": "/react-portfolio/static/media/git-cookin.301a4e9f.jpg"
+  },
+  {
+    "revision": "4bfee86217bb3aa33e2606f1e45b1c34",
+    "url": "/react-portfolio/static/media/mern-project.4bfee862.jpg"
   },
   {
     "revision": "4bd6857823cf9bce064befc678034d1d",
