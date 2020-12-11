@@ -21,6 +21,6 @@ Create a portfolio using React that includes recent projects, a resume, a contac
 
 ## Link
 
-[Deployed React App Here!](https://cheriecookson.github.io/react-portfolio/)
+[Deployed React App Here!](https://cheriecookson.github.io/Portfolio/)
 
 
