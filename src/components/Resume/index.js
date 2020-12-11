@@ -18,7 +18,7 @@ function Resume() {
           <li>Materlialize</li>
           <li>Sass</li>
           <li>Handlebars.js</li>
-          <li>React</li>
+          <li>Reactstrap</li>
         </ul>
         <h4>Back-end Proficiencies</h4>
         <ul className="list">

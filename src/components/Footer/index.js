@@ -10,9 +10,8 @@ const Footer = () => (
                 <a href="https://www.linkedin.com/in/cherie-cookson-3501646/"><i class="fab fa-linkedin"></i></a>
             </li>
             <li>
-                <a href="https://www.facebook.com/cherie.cookson/"><i class="fab fa-facebook-square"></i></a>
+                <a href="mailto://cheriecookson@gmail.com"><i class="fas fa-envelope"></i></a>
             </li>
-            
             
         </ul>
 
