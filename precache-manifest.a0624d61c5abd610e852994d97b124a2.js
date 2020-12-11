@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c14ae863f57f509dcfb1f761dae34ad7",
+    "revision": "f6dbff5b21e5c1a21fb40d1b757184d7",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "f9689756be3a4980571b",
+    "revision": "392cf9519fe124d4bf67",
     "url": "/react-portfolio/static/css/main.3c185392.chunk.css"
   },
   {
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.c86ee92f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9689756be3a4980571b",
-    "url": "/react-portfolio/static/js/main.41951309.chunk.js"
+    "revision": "392cf9519fe124d4bf67",
+    "url": "/react-portfolio/static/js/main.58513266.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
     "url": "/react-portfolio/static/js/runtime-main.213b1880.js"
-  },
-  {
-    "revision": "4bfee86217bb3aa33e2606f1e45b1c34",
-    "url": "/react-portfolio/static/media/Coffee_Shop_ToGo.4bfee862.jpg"
   },
   {
     "revision": "3d0f8389d34ef76baf80f38f2bc970e7",
@@ -34,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "19a09ac7ec9f5bd674105eae415aafa6",
     "url": "/react-portfolio/static/media/code-quiz-challenge.19a09ac7.jpg"
+  },
+  {
+    "revision": "4bfee86217bb3aa33e2606f1e45b1c34",
+    "url": "/react-portfolio/static/media/coffee-shop-to-go.4bfee862.jpg"
   },
   {
     "revision": "69e7b91ce24edda2ac9169e21e811a64",

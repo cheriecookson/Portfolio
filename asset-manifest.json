@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.3c185392.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.41951309.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.41951309.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.58513266.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.58513266.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/js/2.c86ee92f.chunk.js": "/react-portfolio/static/js/2.c86ee92f.chunk.js",
     "static/js/2.c86ee92f.chunk.js.map": "/react-portfolio/static/js/2.c86ee92f.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.4979423b546a22dcc1e8cdb944a98ffe.js": "/react-portfolio/precache-manifest.4979423b546a22dcc1e8cdb944a98ffe.js",
+    "precache-manifest.a0624d61c5abd610e852994d97b124a2.js": "/react-portfolio/precache-manifest.a0624d61c5abd610e852994d97b124a2.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/main.3c185392.chunk.css.map": "/react-portfolio/static/css/main.3c185392.chunk.css.map",
     "static/js/2.c86ee92f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.c86ee92f.chunk.js.LICENSE.txt",
-    "static/media/Coffee_Shop_ToGo.jpg": "/react-portfolio/static/media/Coffee_Shop_ToGo.4bfee862.jpg",
     "static/media/budget-tracker.jpg": "/react-portfolio/static/media/budget-tracker.3d0f8389.jpg",
     "static/media/code-quiz-challenge.jpg": "/react-portfolio/static/media/code-quiz-challenge.19a09ac7.jpg",
+    "static/media/coffee-shop-to-go.jpg": "/react-portfolio/static/media/coffee-shop-to-go.4bfee862.jpg",
     "static/media/cover-image.jpg": "/react-portfolio/static/media/cover-image.69e7b91c.jpg",
     "static/media/covid-travel-tracker.jpg": "/react-portfolio/static/media/covid-travel-tracker.3723aa33.jpg",
     "static/media/cv.pdf": "/react-portfolio/static/media/cv.75421d6c.pdf",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.213b1880.js",
     "static/js/2.c86ee92f.chunk.js",
     "static/css/main.3c185392.chunk.css",
-    "static/js/main.41951309.chunk.js"
+    "static/js/main.58513266.chunk.js"
   ]
 }
