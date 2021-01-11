@@ -1,3 +1,4 @@
+// import React from 'react';
 import React, { useState } from 'react';
 
 import { validateEmail } from '../../utils/helpers';
@@ -38,8 +39,13 @@ function ContactForm() {
 
   return (
     <section  className="my-5">
+
+
+
+
       
-      <form id="contact-form" onSubmit={handleSubmit}>
+      
+       <form id="contact-form" onSubmit={handleSubmit}>
         <div>
           <label htmlFor="name">Name:</label>
           <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
@@ -58,7 +64,7 @@ function ContactForm() {
           </div>
         )}
         <button data-testid="button" type="submit">Submit</button>
-      </form>
+      </form> 
     </section>
   );
 }
